@@ -28,13 +28,8 @@ const Login = () => {
                 <View style={{ marginTop: 20, height: 250, width: 370, marginLeft: 130 }} >
                     <Text>Esqueceu a senha?</Text>
                 </View>
-                <View>
-                    <Text>uahuadhuashdua</Text>
-                </View>
             </View>
         </View>
-
-
     );
 }
 
